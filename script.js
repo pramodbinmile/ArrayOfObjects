@@ -271,8 +271,7 @@ function updt(){
         var cell = trow.insertCell(-1);
         cell.innerHTML = document.getElementById('salary').value
         
-    //i am demo commit
-        
+
 }
   
   
